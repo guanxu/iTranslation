@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers
+END
+IFlyDataUploader.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlyDataUploader.h
+END
+IFlySpeechEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlySpeechEvent.h
+END
+IFlySpeechSynthesizerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlySpeechSynthesizerDelegate.h
+END
+IFlySetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlySetting.h
+END
+IFlySpeechSynthesizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlySpeechSynthesizer.h
+END
+IFlySpeechError.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlySpeechError.h
+END
+IFlySpeechConstant.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlySpeechConstant.h
+END
+IFlyResourceUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlyResourceUtil.h
+END
+IFlySpeechUnderstander.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlySpeechUnderstander.h
+END
+IFlyDataDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlyDataDownloader.h
+END
+IFlySpeechRecognizerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlySpeechRecognizerDelegate.h
+END
+IFlyContact.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlyContact.h
+END
+IFlySpeechUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlySpeechUtility.h
+END
+IFlyRecognizerViewDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlyRecognizerViewDelegate.h
+END
+IFlyUserWords.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlyUserWords.h
+END
+IFlySpeechRecognizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlySpeechRecognizer.h
+END
+IFlyRecognizerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlyRecognizerView.h
+END
+IFlyTextUnderstander.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/zbbt/!svn/ver/32/iTranslation/iTranslation/IFly/iflyMSC.framework/Headers/IFlyTextUnderstander.h
+END

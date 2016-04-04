@@ -1,0 +1,66 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+//输出
+#ifdef DEBUG
+#define GLog(format, ...) NSLog(format, ## __VA_ARGS__)
+#else
+#define GLog(format, ...)
+#endif
+
+//颜色宏
+#define GColor(x,y,z)     [UIColor colorWithRed:x/255. green:y/255. blue:z/255. alpha:1]
+
+//iphone5 适配
+#define iPhone5 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(640, 1136), [[UIScreen mainScreen] currentMode].size) : NO)
+
+//iOS7
+#define iOS7 [[[UIDevice currentDevice] systemVersion] floatValue] >= 7.0
+
+//动画播放时间
+#define ANIMATION_TIME 0.4
+
+//讯飞
+#define IFY_APPID           @"54255b92"     //讯飞appid
+#define IFY_TIMEOUT_VALUE   @"20000"        //识别超时时间
+
+//百度翻译
+#define API_KEY             @"Rh5M0ewtmaYuiQcKsGGN6BMe"
+#define SERVER_URL          @"http://openapi.baidu.com"
+#define TRANSLATE_URL       @"public/2.0/bmt/translate"
+
+//Appid
+#define APP_ID              @"526686112"
+
+//Version
+#define VERSION             @"1.0.0"
+
+//邮件相关
+#define MAIL_RECIPITENTS    @[@"i_translate@sina.com"]
+#define MAIL_SUBJECT        @"针对iTranslation的改善建议"
+#define MAIL_BODY           @"我有些针对该软件改善的建议：\n"
+
+
+
+
+
+
+
+
+
+
+

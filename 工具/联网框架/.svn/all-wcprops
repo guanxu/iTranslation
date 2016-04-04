@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/zbbt/!svn/ver/36/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6
+END
+AFHTTPSessionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFHTTPSessionManager.m
+END
+AFURLResponseSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFURLResponseSerialization.m
+END
+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFNetworking.h
+END
+AFSecurityPolicy.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFSecurityPolicy.h
+END
+AFSecurityPolicy.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFSecurityPolicy.m
+END
+AFURLSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFURLSessionManager.h
+END
+AFURLConnectionOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFURLConnectionOperation.h
+END
+AFHTTPRequestOperationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFHTTPRequestOperationManager.h
+END
+AFNetworkReachabilityManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFNetworkReachabilityManager.h
+END
+AFURLSessionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFURLSessionManager.m
+END
+AFURLConnectionOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFURLConnectionOperation.m
+END
+AFURLRequestSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFURLRequestSerialization.h
+END
+AFHTTPRequestOperationManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/zbbt/!svn/ver/36/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFHTTPRequestOperationManager.m
+END
+AFHTTPRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFHTTPRequestOperation.h
+END
+AFNetworkReachabilityManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFNetworkReachabilityManager.m
+END
+AFURLRequestSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFURLRequestSerialization.m
+END
+AFHTTPSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFHTTPSessionManager.h
+END
+AFHTTPRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFHTTPRequestOperation.m
+END
+AFURLResponseSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/zbbt/!svn/ver/35/iTranslation/iTranslation/%E5%B7%A5%E5%85%B7/%E8%81%94%E7%BD%91%E6%A1%86%E6%9E%B6/AFURLResponseSerialization.h
+END
